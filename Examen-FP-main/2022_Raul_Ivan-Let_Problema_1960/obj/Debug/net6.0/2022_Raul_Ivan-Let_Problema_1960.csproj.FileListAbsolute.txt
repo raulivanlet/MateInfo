@@ -1,0 +1,15 @@
+C:\Users\raulc\Desktop\2022_Raul_Ivan-Let_Problema_1960\bin\Debug\net6.0\2022_Raul_Ivan-Let_Problema_1960.exe
+C:\Users\raulc\Desktop\2022_Raul_Ivan-Let_Problema_1960\bin\Debug\net6.0\2022_Raul_Ivan-Let_Problema_1960.deps.json
+C:\Users\raulc\Desktop\2022_Raul_Ivan-Let_Problema_1960\bin\Debug\net6.0\2022_Raul_Ivan-Let_Problema_1960.runtimeconfig.json
+C:\Users\raulc\Desktop\2022_Raul_Ivan-Let_Problema_1960\bin\Debug\net6.0\2022_Raul_Ivan-Let_Problema_1960.dll
+C:\Users\raulc\Desktop\2022_Raul_Ivan-Let_Problema_1960\bin\Debug\net6.0\ref\2022_Raul_Ivan-Let_Problema_1960.dll
+C:\Users\raulc\Desktop\2022_Raul_Ivan-Let_Problema_1960\bin\Debug\net6.0\2022_Raul_Ivan-Let_Problema_1960.pdb
+C:\Users\raulc\Desktop\2022_Raul_Ivan-Let_Problema_1960\obj\Debug\net6.0\2022_Raul_Ivan-Let_Problema_1960.csproj.AssemblyReference.cache
+C:\Users\raulc\Desktop\2022_Raul_Ivan-Let_Problema_1960\obj\Debug\net6.0\2022_Raul_Ivan-Let_Problema_1960.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulc\Desktop\2022_Raul_Ivan-Let_Problema_1960\obj\Debug\net6.0\2022_Raul_Ivan-Let_Problema_1960.AssemblyInfoInputs.cache
+C:\Users\raulc\Desktop\2022_Raul_Ivan-Let_Problema_1960\obj\Debug\net6.0\2022_Raul_Ivan-Let_Problema_1960.AssemblyInfo.cs
+C:\Users\raulc\Desktop\2022_Raul_Ivan-Let_Problema_1960\obj\Debug\net6.0\2022_Raul_Ivan-Let_Problema_1960.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Desktop\2022_Raul_Ivan-Let_Problema_1960\obj\Debug\net6.0\2022_Raul_Ivan-Let_Problema_1960.dll
+C:\Users\raulc\Desktop\2022_Raul_Ivan-Let_Problema_1960\obj\Debug\net6.0\ref\2022_Raul_Ivan-Let_Problema_1960.dll
+C:\Users\raulc\Desktop\2022_Raul_Ivan-Let_Problema_1960\obj\Debug\net6.0\2022_Raul_Ivan-Let_Problema_1960.pdb
+C:\Users\raulc\Desktop\2022_Raul_Ivan-Let_Problema_1960\obj\Debug\net6.0\2022_Raul_Ivan-Let_Problema_1960.genruntimeconfig.cache

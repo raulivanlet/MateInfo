@@ -1,0 +1,15 @@
+C:\Users\raulc\source\repos\EvaluareExpresie\bin\Debug\net6.0\EvaluareExpresie.exe
+C:\Users\raulc\source\repos\EvaluareExpresie\bin\Debug\net6.0\EvaluareExpresie.deps.json
+C:\Users\raulc\source\repos\EvaluareExpresie\bin\Debug\net6.0\EvaluareExpresie.runtimeconfig.json
+C:\Users\raulc\source\repos\EvaluareExpresie\bin\Debug\net6.0\EvaluareExpresie.dll
+C:\Users\raulc\source\repos\EvaluareExpresie\bin\Debug\net6.0\ref\EvaluareExpresie.dll
+C:\Users\raulc\source\repos\EvaluareExpresie\bin\Debug\net6.0\EvaluareExpresie.pdb
+C:\Users\raulc\source\repos\EvaluareExpresie\obj\Debug\net6.0\EvaluareExpresie.csproj.AssemblyReference.cache
+C:\Users\raulc\source\repos\EvaluareExpresie\obj\Debug\net6.0\EvaluareExpresie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulc\source\repos\EvaluareExpresie\obj\Debug\net6.0\EvaluareExpresie.AssemblyInfoInputs.cache
+C:\Users\raulc\source\repos\EvaluareExpresie\obj\Debug\net6.0\EvaluareExpresie.AssemblyInfo.cs
+C:\Users\raulc\source\repos\EvaluareExpresie\obj\Debug\net6.0\EvaluareExpresie.csproj.CoreCompileInputs.cache
+C:\Users\raulc\source\repos\EvaluareExpresie\obj\Debug\net6.0\EvaluareExpresie.dll
+C:\Users\raulc\source\repos\EvaluareExpresie\obj\Debug\net6.0\ref\EvaluareExpresie.dll
+C:\Users\raulc\source\repos\EvaluareExpresie\obj\Debug\net6.0\EvaluareExpresie.pdb
+C:\Users\raulc\source\repos\EvaluareExpresie\obj\Debug\net6.0\EvaluareExpresie.genruntimeconfig.cache

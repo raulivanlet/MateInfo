@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4ed65e5-b83e-4a10-82f6-5ac939caf97e": {
+      "ProjectGuid": "c4ed65e5-b83e-4a10-82f6-5ac939caf97e",
+      "DisplayName": "Hex_Viewer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
