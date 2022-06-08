@@ -1,0 +1,8 @@
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\16_5-1\obj\Debug\16_5-1.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\16_5-1\obj\Debug\16_5-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\16_5-1\obj\Debug\16_5-1.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\16_5-1\bin\Debug\16_5-1.exe.config
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\16_5-1\bin\Debug\16_5-1.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\16_5-1\bin\Debug\16_5-1.pdb
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\16_5-1\obj\Debug\16_5-1.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\16_5-1\obj\Debug\16_5-1.pdb

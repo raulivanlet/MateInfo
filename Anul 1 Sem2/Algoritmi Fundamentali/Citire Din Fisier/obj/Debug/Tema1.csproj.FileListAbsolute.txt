@@ -1,0 +1,33 @@
+C:\Users\MacLaptop\Documents\Proiecte\Tema1\bin\Debug\Tema1.exe.config
+C:\Users\MacLaptop\Documents\Proiecte\Tema1\bin\Debug\Tema1.exe
+C:\Users\MacLaptop\Documents\Proiecte\Tema1\bin\Debug\Tema1.pdb
+C:\Users\MacLaptop\Documents\Proiecte\Tema1\obj\Debug\Tema1.csproj.AssemblyReference.cache
+C:\Users\MacLaptop\Documents\Proiecte\Tema1\obj\Debug\Tema1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MacLaptop\Documents\Proiecte\Tema1\obj\Debug\Tema1.Form1.resources
+C:\Users\MacLaptop\Documents\Proiecte\Tema1\obj\Debug\Tema1.Properties.Resources.resources
+C:\Users\MacLaptop\Documents\Proiecte\Tema1\obj\Debug\Tema1.csproj.GenerateResource.cache
+C:\Users\MacLaptop\Documents\Proiecte\Tema1\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\MacLaptop\Documents\Proiecte\Tema1\obj\Debug\Tema1.exe
+C:\Users\MacLaptop\Documents\Proiecte\Tema1\obj\Debug\Tema1.pdb
+C:\Users\MacLaptop\Documents\Proiecte\ProiectAzi\obj\Debug\Tema1.csproj.AssemblyReference.cache
+C:\Users\MacLaptop\Documents\Proiecte\ProiectAzi\obj\Debug\Tema1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MacLaptop\Documents\Proiecte\ProiectAzi\obj\Debug\Tema1.Form1.resources
+C:\Users\MacLaptop\Documents\Proiecte\ProiectAzi\obj\Debug\Tema1.Properties.Resources.resources
+C:\Users\MacLaptop\Documents\Proiecte\ProiectAzi\obj\Debug\Tema1.csproj.GenerateResource.cache
+C:\Users\MacLaptop\Documents\Proiecte\ProiectAzi\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\MacLaptop\Documents\Proiecte\ProiectAzi\obj\Debug\Tema1.exe
+C:\Users\MacLaptop\Documents\Proiecte\ProiectAzi\obj\Debug\Tema1.pdb
+C:\Users\MacLaptop\Documents\Proiecte\ProiectAzi\bin\Debug\Tema1.exe.config
+C:\Users\MacLaptop\Documents\Proiecte\ProiectAzi\bin\Debug\Tema1.exe
+C:\Users\MacLaptop\Documents\Proiecte\ProiectAzi\bin\Debug\Tema1.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ProiectAzi\bin\Debug\Tema1.exe.config
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ProiectAzi\bin\Debug\Tema1.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ProiectAzi\bin\Debug\Tema1.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ProiectAzi\obj\Debug\Tema1.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ProiectAzi\obj\Debug\Tema1.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ProiectAzi\obj\Debug\Tema1.Form1.resources
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ProiectAzi\obj\Debug\Tema1.Properties.Resources.resources
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ProiectAzi\obj\Debug\Tema1.csproj.GenerateResource.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ProiectAzi\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ProiectAzi\obj\Debug\Tema1.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ProiectAzi\obj\Debug\Tema1.pdb

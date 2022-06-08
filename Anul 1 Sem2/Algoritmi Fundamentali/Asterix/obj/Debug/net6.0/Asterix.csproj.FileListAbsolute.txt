@@ -1,0 +1,15 @@
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Asterix\bin\Debug\net6.0\Asterix.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Asterix\bin\Debug\net6.0\Asterix.deps.json
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Asterix\bin\Debug\net6.0\Asterix.runtimeconfig.json
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Asterix\bin\Debug\net6.0\Asterix.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Asterix\bin\Debug\net6.0\Asterix.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Asterix\obj\Debug\net6.0\Asterix.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Asterix\obj\Debug\net6.0\Asterix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Asterix\obj\Debug\net6.0\Asterix.AssemblyInfoInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Asterix\obj\Debug\net6.0\Asterix.AssemblyInfo.cs
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Asterix\obj\Debug\net6.0\Asterix.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Asterix\obj\Debug\net6.0\Asterix.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Asterix\obj\Debug\net6.0\refint\Asterix.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Asterix\obj\Debug\net6.0\Asterix.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Asterix\obj\Debug\net6.0\Asterix.genruntimeconfig.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Asterix\obj\Debug\net6.0\ref\Asterix.dll

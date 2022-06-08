@@ -1,0 +1,11 @@
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema2_TriunghiArieMinima\bin\Debug\Tema2_TriunghiArieMinima.exe.config
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema2_TriunghiArieMinima\bin\Debug\Tema2_TriunghiArieMinima.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema2_TriunghiArieMinima\bin\Debug\Tema2_TriunghiArieMinima.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema2_TriunghiArieMinima\obj\Debug\Tema2_TriunghiArieMinima.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema2_TriunghiArieMinima\obj\Debug\Tema2_TriunghiArieMinima.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema2_TriunghiArieMinima\obj\Debug\Tema2_TriunghiArieMinima.Form1.resources
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema2_TriunghiArieMinima\obj\Debug\Tema2_TriunghiArieMinima.Properties.Resources.resources
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema2_TriunghiArieMinima\obj\Debug\Tema2_TriunghiArieMinima.csproj.GenerateResource.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema2_TriunghiArieMinima\obj\Debug\Tema2_TriunghiArieMinima.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema2_TriunghiArieMinima\obj\Debug\Tema2_TriunghiArieMinima.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema2_TriunghiArieMinima\obj\Debug\Tema2_TriunghiArieMinima.pdb

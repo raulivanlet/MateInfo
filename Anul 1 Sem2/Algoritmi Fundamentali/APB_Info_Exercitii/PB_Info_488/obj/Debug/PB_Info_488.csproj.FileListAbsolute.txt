@@ -1,0 +1,8 @@
+C:\Users\MacLaptop\Documents\Proiecte\C.Algoritmi Fundamentali\PB_Info_488\bin\Debug\PB_Info_488.exe.config
+C:\Users\MacLaptop\Documents\Proiecte\C.Algoritmi Fundamentali\PB_Info_488\bin\Debug\PB_Info_488.exe
+C:\Users\MacLaptop\Documents\Proiecte\C.Algoritmi Fundamentali\PB_Info_488\bin\Debug\PB_Info_488.pdb
+C:\Users\MacLaptop\Documents\Proiecte\C.Algoritmi Fundamentali\PB_Info_488\obj\Debug\PB_Info_488.csproj.AssemblyReference.cache
+C:\Users\MacLaptop\Documents\Proiecte\C.Algoritmi Fundamentali\PB_Info_488\obj\Debug\PB_Info_488.csproj.SuggestedBindingRedirects.cache
+C:\Users\MacLaptop\Documents\Proiecte\C.Algoritmi Fundamentali\PB_Info_488\obj\Debug\PB_Info_488.csproj.CoreCompileInputs.cache
+C:\Users\MacLaptop\Documents\Proiecte\C.Algoritmi Fundamentali\PB_Info_488\obj\Debug\PB_Info_488.exe
+C:\Users\MacLaptop\Documents\Proiecte\C.Algoritmi Fundamentali\PB_Info_488\obj\Debug\PB_Info_488.pdb

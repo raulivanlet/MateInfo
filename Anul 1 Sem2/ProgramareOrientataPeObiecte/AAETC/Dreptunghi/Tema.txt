@@ -1,0 +1,16 @@
+﻿-Rectangle-
+
+Creati o structura de date care sa defineasca un dreptunghi cu atributiile:
+	- un punct care reprezinta coordonatele stanga sus
+	- lungime , luntime , coordonate
+
+Operatii:
+	- arie
+	- perimetru
+	- daca un pct este in interiorul dreptunghiului bool fct(Point)
+	- determina relatie dintre 2 dreptunghiuri
+
+Incepem un constructor:
+	- constructor fara parametrii ( 0 ,0 ,0 ,0 )
+	- constructori cu 2 parametri ( lungime ,latime)
+	- constructori cu 4 parametri (x ,y ,lungime ,latime)

@@ -1,0 +1,11 @@
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema5_AlgoritmJarvis\obj\Debug\Tema5_AlgoritmJarvis.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema5_AlgoritmJarvis\obj\Debug\Tema5_AlgoritmJarvis.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema5_AlgoritmJarvis\obj\Debug\Tema5_AlgoritmJarvis.Form1.resources
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema5_AlgoritmJarvis\obj\Debug\Tema5_AlgoritmJarvis.Properties.Resources.resources
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema5_AlgoritmJarvis\obj\Debug\Tema5_AlgoritmJarvis.csproj.GenerateResource.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema5_AlgoritmJarvis\obj\Debug\Tema5_AlgoritmJarvis.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema5_AlgoritmJarvis\bin\Debug\Tema5_AlgoritmJarvis.exe.config
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema5_AlgoritmJarvis\bin\Debug\Tema5_AlgoritmJarvis.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema5_AlgoritmJarvis\bin\Debug\Tema5_AlgoritmJarvis.pdb
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema5_AlgoritmJarvis\obj\Debug\Tema5_AlgoritmJarvis.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema5_AlgoritmJarvis\obj\Debug\Tema5_AlgoritmJarvis.pdb

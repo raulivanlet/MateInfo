@@ -1,0 +1,11 @@
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Zoom Image\bin\Debug\Zoom Image.exe.config
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Zoom Image\bin\Debug\Zoom Image.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Zoom Image\bin\Debug\Zoom Image.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Zoom Image\obj\Debug\Zoom Image.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Zoom Image\obj\Debug\Zoom Image.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Zoom Image\obj\Debug\Zoom_Image.Properties.Resources.resources
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Zoom Image\obj\Debug\Zoom Image.csproj.GenerateResource.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Zoom Image\obj\Debug\Zoom Image.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Zoom Image\obj\Debug\Zoom Image.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Zoom Image\obj\Debug\Zoom Image.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Zoom Image\obj\Debug\Zoom_Image.Form1.resources

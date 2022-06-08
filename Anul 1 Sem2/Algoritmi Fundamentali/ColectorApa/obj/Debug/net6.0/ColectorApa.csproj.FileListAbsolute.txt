@@ -1,0 +1,15 @@
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ColectorApa\bin\Debug\net6.0\ColectorApa.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ColectorApa\bin\Debug\net6.0\ColectorApa.deps.json
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ColectorApa\bin\Debug\net6.0\ColectorApa.runtimeconfig.json
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ColectorApa\bin\Debug\net6.0\ColectorApa.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ColectorApa\bin\Debug\net6.0\ColectorApa.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ColectorApa\obj\Debug\net6.0\ColectorApa.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ColectorApa\obj\Debug\net6.0\ColectorApa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ColectorApa\obj\Debug\net6.0\ColectorApa.AssemblyInfoInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ColectorApa\obj\Debug\net6.0\ColectorApa.AssemblyInfo.cs
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ColectorApa\obj\Debug\net6.0\ColectorApa.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ColectorApa\obj\Debug\net6.0\ColectorApa.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ColectorApa\obj\Debug\net6.0\refint\ColectorApa.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ColectorApa\obj\Debug\net6.0\ColectorApa.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ColectorApa\obj\Debug\net6.0\ColectorApa.genruntimeconfig.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\ColectorApa\obj\Debug\net6.0\ref\ColectorApa.dll

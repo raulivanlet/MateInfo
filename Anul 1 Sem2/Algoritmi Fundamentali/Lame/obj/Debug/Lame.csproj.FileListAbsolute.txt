@@ -1,0 +1,8 @@
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Lame\bin\Debug\Lame.exe.config
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Lame\bin\Debug\Lame.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Lame\bin\Debug\Lame.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Lame\obj\Debug\Lame.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Lame\obj\Debug\Lame.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Lame\obj\Debug\Lame.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Lame\obj\Debug\Lame.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Lame\obj\Debug\Lame.pdb

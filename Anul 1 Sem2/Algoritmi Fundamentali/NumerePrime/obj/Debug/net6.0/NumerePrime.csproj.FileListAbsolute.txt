@@ -1,0 +1,15 @@
+C:\Users\MacLaptop\Documents\Proiecte\NumerePrime\bin\Debug\net6.0\NumerePrime.exe
+C:\Users\MacLaptop\Documents\Proiecte\NumerePrime\bin\Debug\net6.0\NumerePrime.deps.json
+C:\Users\MacLaptop\Documents\Proiecte\NumerePrime\bin\Debug\net6.0\NumerePrime.runtimeconfig.json
+C:\Users\MacLaptop\Documents\Proiecte\NumerePrime\bin\Debug\net6.0\NumerePrime.dll
+C:\Users\MacLaptop\Documents\Proiecte\NumerePrime\bin\Debug\net6.0\NumerePrime.pdb
+C:\Users\MacLaptop\Documents\Proiecte\NumerePrime\obj\Debug\net6.0\NumerePrime.csproj.AssemblyReference.cache
+C:\Users\MacLaptop\Documents\Proiecte\NumerePrime\obj\Debug\net6.0\NumerePrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MacLaptop\Documents\Proiecte\NumerePrime\obj\Debug\net6.0\NumerePrime.AssemblyInfoInputs.cache
+C:\Users\MacLaptop\Documents\Proiecte\NumerePrime\obj\Debug\net6.0\NumerePrime.AssemblyInfo.cs
+C:\Users\MacLaptop\Documents\Proiecte\NumerePrime\obj\Debug\net6.0\NumerePrime.csproj.CoreCompileInputs.cache
+C:\Users\MacLaptop\Documents\Proiecte\NumerePrime\obj\Debug\net6.0\NumerePrime.dll
+C:\Users\MacLaptop\Documents\Proiecte\NumerePrime\obj\Debug\net6.0\refint\NumerePrime.dll
+C:\Users\MacLaptop\Documents\Proiecte\NumerePrime\obj\Debug\net6.0\NumerePrime.pdb
+C:\Users\MacLaptop\Documents\Proiecte\NumerePrime\obj\Debug\net6.0\NumerePrime.genruntimeconfig.cache
+C:\Users\MacLaptop\Documents\Proiecte\NumerePrime\obj\Debug\net6.0\ref\NumerePrime.dll

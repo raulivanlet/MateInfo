@@ -1,0 +1,8 @@
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\Patrat4x4\bin\Debug\Patrat4x4.exe.config
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\Patrat4x4\bin\Debug\Patrat4x4.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\Patrat4x4\bin\Debug\Patrat4x4.pdb
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\Patrat4x4\obj\Debug\Patrat4x4.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\Patrat4x4\obj\Debug\Patrat4x4.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\Patrat4x4\obj\Debug\Patrat4x4.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\Patrat4x4\obj\Debug\Patrat4x4.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\Patrat4x4\obj\Debug\Patrat4x4.pdb

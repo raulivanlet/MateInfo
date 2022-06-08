@@ -1,0 +1,8 @@
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Transaction_19_04\obj\Debug\Transaction_19_04.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Transaction_19_04\obj\Debug\Transaction_19_04.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Transaction_19_04\obj\Debug\Transaction_19_04.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Transaction_19_04\bin\Debug\Transaction_19_04.exe.config
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Transaction_19_04\bin\Debug\Transaction_19_04.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Transaction_19_04\bin\Debug\Transaction_19_04.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Transaction_19_04\obj\Debug\Transaction_19_04.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Transaction_19_04\obj\Debug\Transaction_19_04.pdb

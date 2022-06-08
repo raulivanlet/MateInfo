@@ -1,0 +1,15 @@
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Problema_04_12\bin\Debug\net6.0-windows\Problema_04_12.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Problema_04_12\bin\Debug\net6.0-windows\Problema_04_12.deps.json
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Problema_04_12\bin\Debug\net6.0-windows\Problema_04_12.runtimeconfig.json
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Problema_04_12\bin\Debug\net6.0-windows\Problema_04_12.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Problema_04_12\bin\Debug\net6.0-windows\Problema_04_12.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Problema_04_12\obj\Debug\net6.0-windows\Problema_04_12.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Problema_04_12\obj\Debug\net6.0-windows\Problema_04_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Problema_04_12\obj\Debug\net6.0-windows\Problema_04_12.AssemblyInfoInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Problema_04_12\obj\Debug\net6.0-windows\Problema_04_12.AssemblyInfo.cs
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Problema_04_12\obj\Debug\net6.0-windows\Problema_04_12.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Problema_04_12\obj\Debug\net6.0-windows\Problema_04_12.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Problema_04_12\obj\Debug\net6.0-windows\refint\Problema_04_12.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Problema_04_12\obj\Debug\net6.0-windows\Problema_04_12.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Problema_04_12\obj\Debug\net6.0-windows\Problema_04_12.genruntimeconfig.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Problema_04_12\obj\Debug\net6.0-windows\ref\Problema_04_12.dll

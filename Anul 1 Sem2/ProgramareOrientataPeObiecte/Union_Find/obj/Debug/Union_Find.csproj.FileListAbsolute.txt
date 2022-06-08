@@ -1,0 +1,3 @@
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\D.ProgramareOrientataPeObiecte\Union_Find\obj\Debug\Union_Find.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\D.ProgramareOrientataPeObiecte\Union_Find\obj\Debug\Union_Find.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\D.ProgramareOrientataPeObiecte\Union_Find\obj\Debug\Union_Find.csproj.CoreCompileInputs.cache

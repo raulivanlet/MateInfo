@@ -1,0 +1,8 @@
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\D.ProgramareOrientataPeObiecte\Punct\obj\Debug\Punct.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\D.ProgramareOrientataPeObiecte\Punct\obj\Debug\Punct.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\D.ProgramareOrientataPeObiecte\Punct\obj\Debug\Punct.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\D.ProgramareOrientataPeObiecte\Punct\bin\Debug\Punct.exe.config
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\D.ProgramareOrientataPeObiecte\Punct\bin\Debug\Punct.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\D.ProgramareOrientataPeObiecte\Punct\bin\Debug\Punct.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\D.ProgramareOrientataPeObiecte\Punct\obj\Debug\Punct.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\D.ProgramareOrientataPeObiecte\Punct\obj\Debug\Punct.pdb

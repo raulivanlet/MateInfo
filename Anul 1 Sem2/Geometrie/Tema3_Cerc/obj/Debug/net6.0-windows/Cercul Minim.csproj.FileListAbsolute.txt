@@ -1,0 +1,68 @@
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\bin\Debug\net6.0-windows\Cercul Minim.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\bin\Debug\net6.0-windows\Cercul Minim.deps.json
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\bin\Debug\net6.0-windows\Cercul Minim.runtimeconfig.json
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\bin\Debug\net6.0-windows\Cercul Minim.dll
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\bin\Debug\net6.0-windows\Cercul Minim.pdb
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\obj\Debug\net6.0-windows\Cercul_Minim.Form1.resources
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.csproj.GenerateResource.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.AssemblyInfoInputs.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.AssemblyInfo.cs
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.dll
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\obj\Debug\net6.0-windows\refint\Cercul Minim.dll
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.pdb
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.genruntimeconfig.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\A.Tema\Cercul Minim\obj\Debug\net6.0-windows\ref\Cercul Minim.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\bin\Debug\net6.0-windows\Cercul Minim.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\bin\Debug\net6.0-windows\Cercul Minim.deps.json
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\bin\Debug\net6.0-windows\Cercul Minim.runtimeconfig.json
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\bin\Debug\net6.0-windows\Cercul Minim.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\bin\Debug\net6.0-windows\Cercul Minim.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\obj\Debug\net6.0-windows\Cercul_Minim.Form1.resources
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.csproj.GenerateResource.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.AssemblyInfoInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.AssemblyInfo.cs
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\obj\Debug\net6.0-windows\refint\Cercul Minim.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\obj\Debug\net6.0-windows\Cercul Minim.genruntimeconfig.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Cercul Minim\obj\Debug\net6.0-windows\ref\Cercul Minim.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\bin\Debug\net6.0-windows\Cercul Minim.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\bin\Debug\net6.0-windows\Cercul Minim.deps.json
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\bin\Debug\net6.0-windows\Cercul Minim.runtimeconfig.json
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\bin\Debug\net6.0-windows\Cercul Minim.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\bin\Debug\net6.0-windows\Cercul Minim.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul_Minim.Form1.resources
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.csproj.GenerateResource.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.AssemblyInfoInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.AssemblyInfo.cs
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\obj\Debug\net6.0-windows\refint\Cercul Minim.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.genruntimeconfig.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema3_Cerc\obj\Debug\net6.0-windows\ref\Cercul Minim.dll
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\bin\Debug\net6.0-windows\Cercul Minim.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\bin\Debug\net6.0-windows\Cercul Minim.deps.json
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\bin\Debug\net6.0-windows\Cercul Minim.runtimeconfig.json
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\bin\Debug\net6.0-windows\Cercul Minim.dll
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\bin\Debug\net6.0-windows\Cercul Minim.pdb
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul_Minim.Form1.resources
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.csproj.GenerateResource.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.AssemblyInfoInputs.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.AssemblyInfo.cs
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.dll
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\obj\Debug\net6.0-windows\refint\Cercul Minim.dll
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.pdb
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\obj\Debug\net6.0-windows\Cercul Minim.genruntimeconfig.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema3_Cerc\obj\Debug\net6.0-windows\ref\Cercul Minim.dll

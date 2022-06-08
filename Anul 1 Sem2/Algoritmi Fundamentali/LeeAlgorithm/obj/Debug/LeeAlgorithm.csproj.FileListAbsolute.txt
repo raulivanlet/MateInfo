@@ -1,0 +1,8 @@
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\LeeAlgorithm\bin\Debug\LeeAlgorithm.exe.config
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\LeeAlgorithm\bin\Debug\LeeAlgorithm.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\LeeAlgorithm\bin\Debug\LeeAlgorithm.pdb
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\LeeAlgorithm\obj\Debug\LeeAlgorithm.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\LeeAlgorithm\obj\Debug\LeeAlgorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\LeeAlgorithm\obj\Debug\LeeAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\LeeAlgorithm\obj\Debug\LeeAlgorithm.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\LeeAlgorithm\obj\Debug\LeeAlgorithm.pdb

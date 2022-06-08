@@ -1,0 +1,17 @@
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\bin\Debug\net6.0-windows\Numere Complexe.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\bin\Debug\net6.0-windows\Numere Complexe.deps.json
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\bin\Debug\net6.0-windows\Numere Complexe.runtimeconfig.json
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\bin\Debug\net6.0-windows\Numere Complexe.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\bin\Debug\net6.0-windows\Numere Complexe.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\obj\Debug\net6.0-windows\Numere Complexe.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\obj\Debug\net6.0-windows\Numere_Complexe.Form1.resources
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\obj\Debug\net6.0-windows\Numere Complexe.csproj.GenerateResource.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\obj\Debug\net6.0-windows\Numere Complexe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\obj\Debug\net6.0-windows\Numere Complexe.AssemblyInfoInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\obj\Debug\net6.0-windows\Numere Complexe.AssemblyInfo.cs
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\obj\Debug\net6.0-windows\Numere Complexe.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\obj\Debug\net6.0-windows\Numere Complexe.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\obj\Debug\net6.0-windows\refint\Numere Complexe.dll
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\obj\Debug\net6.0-windows\Numere Complexe.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\obj\Debug\net6.0-windows\Numere Complexe.genruntimeconfig.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\C.Algoritmi Fundamentali\Numere Complexe\obj\Debug\net6.0-windows\ref\Numere Complexe.dll

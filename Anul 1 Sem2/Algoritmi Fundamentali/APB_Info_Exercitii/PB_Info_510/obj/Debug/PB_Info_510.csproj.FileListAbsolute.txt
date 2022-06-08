@@ -1,0 +1,8 @@
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\PB_Info_510\bin\Debug\PB_Info_510.exe.config
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\PB_Info_510\bin\Debug\PB_Info_510.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\PB_Info_510\bin\Debug\PB_Info_510.pdb
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\PB_Info_510\obj\Debug\PB_Info_510.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\PB_Info_510\obj\Debug\PB_Info_510.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\PB_Info_510\obj\Debug\PB_Info_510.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\PB_Info_510\obj\Debug\PB_Info_510.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\C.Algoritmi Fundamentali\PB_Info_510\obj\Debug\PB_Info_510.pdb

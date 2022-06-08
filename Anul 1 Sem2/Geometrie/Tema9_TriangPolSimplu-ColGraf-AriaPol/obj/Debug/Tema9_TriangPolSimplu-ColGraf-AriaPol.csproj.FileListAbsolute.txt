@@ -1,0 +1,11 @@
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema9_TriangPolSimplu-ColGraf-AriaPol\bin\Debug\Tema9_TriangPolSimplu-ColGraf-AriaPol.exe.config
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema9_TriangPolSimplu-ColGraf-AriaPol\bin\Debug\Tema9_TriangPolSimplu-ColGraf-AriaPol.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema9_TriangPolSimplu-ColGraf-AriaPol\bin\Debug\Tema9_TriangPolSimplu-ColGraf-AriaPol.pdb
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema9_TriangPolSimplu-ColGraf-AriaPol\obj\Debug\Tema9_TriangPolSimplu-ColGraf-AriaPol.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema9_TriangPolSimplu-ColGraf-AriaPol\obj\Debug\Tema9_TriangPolSimplu-ColGraf-AriaPol.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema9_TriangPolSimplu-ColGraf-AriaPol\obj\Debug\Tema9_TriangPolSimplu_ColGraf_AriaPol.Form1.resources
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema9_TriangPolSimplu-ColGraf-AriaPol\obj\Debug\Tema9_TriangPolSimplu_ColGraf_AriaPol.Properties.Resources.resources
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema9_TriangPolSimplu-ColGraf-AriaPol\obj\Debug\Tema9_TriangPolSimplu-ColGraf-AriaPol.csproj.GenerateResource.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema9_TriangPolSimplu-ColGraf-AriaPol\obj\Debug\Tema9_TriangPolSimplu-ColGraf-AriaPol.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema9_TriangPolSimplu-ColGraf-AriaPol\obj\Debug\Tema9_TriangPolSimplu-ColGraf-AriaPol.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema9_TriangPolSimplu-ColGraf-AriaPol\obj\Debug\Tema9_TriangPolSimplu-ColGraf-AriaPol.pdb

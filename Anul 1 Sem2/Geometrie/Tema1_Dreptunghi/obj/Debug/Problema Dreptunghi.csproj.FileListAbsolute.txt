@@ -1,0 +1,55 @@
+C:\Users\MacLaptop\Documents\Proiecte\A.Teme Geometrie\Problema Dreptunghi\bin\Debug\Problema Dreptunghi.exe.config
+C:\Users\MacLaptop\Documents\Proiecte\A.Teme Geometrie\Problema Dreptunghi\bin\Debug\Problema Dreptunghi.exe
+C:\Users\MacLaptop\Documents\Proiecte\A.Teme Geometrie\Problema Dreptunghi\bin\Debug\Problema Dreptunghi.pdb
+C:\Users\MacLaptop\Documents\Proiecte\A.Teme Geometrie\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.AssemblyReference.cache
+C:\Users\MacLaptop\Documents\Proiecte\A.Teme Geometrie\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.SuggestedBindingRedirects.cache
+C:\Users\MacLaptop\Documents\Proiecte\A.Teme Geometrie\Problema Dreptunghi\obj\Debug\Problema_Dreptunghi.Form1.resources
+C:\Users\MacLaptop\Documents\Proiecte\A.Teme Geometrie\Problema Dreptunghi\obj\Debug\Problema_Dreptunghi.Properties.Resources.resources
+C:\Users\MacLaptop\Documents\Proiecte\A.Teme Geometrie\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.GenerateResource.cache
+C:\Users\MacLaptop\Documents\Proiecte\A.Teme Geometrie\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.CoreCompileInputs.cache
+C:\Users\MacLaptop\Documents\Proiecte\A.Teme Geometrie\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.exe
+C:\Users\MacLaptop\Documents\Proiecte\A.Teme Geometrie\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.pdb
+C:\Users\MacLaptop\Documents\Proiecte\A.Geometrie\A.Tema\Problema Dreptunghi\bin\Debug\Problema Dreptunghi.exe.config
+C:\Users\MacLaptop\Documents\Proiecte\A.Geometrie\A.Tema\Problema Dreptunghi\bin\Debug\Problema Dreptunghi.exe
+C:\Users\MacLaptop\Documents\Proiecte\A.Geometrie\A.Tema\Problema Dreptunghi\bin\Debug\Problema Dreptunghi.pdb
+C:\Users\MacLaptop\Documents\Proiecte\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.AssemblyReference.cache
+C:\Users\MacLaptop\Documents\Proiecte\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.SuggestedBindingRedirects.cache
+C:\Users\MacLaptop\Documents\Proiecte\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema_Dreptunghi.Form1.resources
+C:\Users\MacLaptop\Documents\Proiecte\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema_Dreptunghi.Properties.Resources.resources
+C:\Users\MacLaptop\Documents\Proiecte\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.GenerateResource.cache
+C:\Users\MacLaptop\Documents\Proiecte\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.CoreCompileInputs.cache
+C:\Users\MacLaptop\Documents\Proiecte\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.exe
+C:\Users\MacLaptop\Documents\Proiecte\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.pdb
+C:\Users\MacLaptop\Documents\Github\MateInfoPrivat\A.Geometrie\A.Tema\Problema Dreptunghi\bin\Debug\Problema Dreptunghi.exe.config
+C:\Users\MacLaptop\Documents\Github\MateInfoPrivat\A.Geometrie\A.Tema\Problema Dreptunghi\bin\Debug\Problema Dreptunghi.exe
+C:\Users\MacLaptop\Documents\Github\MateInfoPrivat\A.Geometrie\A.Tema\Problema Dreptunghi\bin\Debug\Problema Dreptunghi.pdb
+C:\Users\MacLaptop\Documents\Github\MateInfoPrivat\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.AssemblyReference.cache
+C:\Users\MacLaptop\Documents\Github\MateInfoPrivat\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.SuggestedBindingRedirects.cache
+C:\Users\MacLaptop\Documents\Github\MateInfoPrivat\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema_Dreptunghi.Form1.resources
+C:\Users\MacLaptop\Documents\Github\MateInfoPrivat\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema_Dreptunghi.Properties.Resources.resources
+C:\Users\MacLaptop\Documents\Github\MateInfoPrivat\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.GenerateResource.cache
+C:\Users\MacLaptop\Documents\Github\MateInfoPrivat\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.CoreCompileInputs.cache
+C:\Users\MacLaptop\Documents\Github\MateInfoPrivat\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.exe
+C:\Users\MacLaptop\Documents\Github\MateInfoPrivat\A.Geometrie\A.Tema\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Problema Dreptunghi\bin\Debug\Problema Dreptunghi.exe.config
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Problema Dreptunghi\bin\Debug\Problema Dreptunghi.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Problema Dreptunghi\bin\Debug\Problema Dreptunghi.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Problema Dreptunghi\obj\Debug\Problema_Dreptunghi.Form1.resources
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Problema Dreptunghi\obj\Debug\Problema_Dreptunghi.Properties.Resources.resources
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.GenerateResource.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\Problema Dreptunghi\obj\Debug\Problema Dreptunghi.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema1_Dreptunghi\bin\Debug\Problema Dreptunghi.exe.config
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema1_Dreptunghi\bin\Debug\Problema Dreptunghi.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema1_Dreptunghi\bin\Debug\Problema Dreptunghi.pdb
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema1_Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema1_Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema1_Dreptunghi\obj\Debug\Problema_Dreptunghi.Form1.resources
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema1_Dreptunghi\obj\Debug\Problema_Dreptunghi.Properties.Resources.resources
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema1_Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.GenerateResource.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema1_Dreptunghi\obj\Debug\Problema Dreptunghi.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema1_Dreptunghi\obj\Debug\Problema Dreptunghi.exe
+C:\Users\raulc\Documents\AProjects\MateInfoPrivat\A.Geometrie\A.Tema\Tema1_Dreptunghi\obj\Debug\Problema Dreptunghi.pdb

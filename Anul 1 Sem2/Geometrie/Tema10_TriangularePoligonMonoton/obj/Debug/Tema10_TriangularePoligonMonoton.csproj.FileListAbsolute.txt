@@ -1,0 +1,11 @@
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema10_TriangularePoligonMonoton\bin\Debug\Tema10_TriangularePoligonMonoton.exe.config
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema10_TriangularePoligonMonoton\bin\Debug\Tema10_TriangularePoligonMonoton.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema10_TriangularePoligonMonoton\bin\Debug\Tema10_TriangularePoligonMonoton.pdb
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema10_TriangularePoligonMonoton\obj\Debug\Tema10_TriangularePoligonMonoton.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema10_TriangularePoligonMonoton\obj\Debug\Tema10_TriangularePoligonMonoton.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema10_TriangularePoligonMonoton\obj\Debug\Tema10_TriangularePoligonMonoton.Form1.resources
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema10_TriangularePoligonMonoton\obj\Debug\Tema10_TriangularePoligonMonoton.Properties.Resources.resources
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema10_TriangularePoligonMonoton\obj\Debug\Tema10_TriangularePoligonMonoton.csproj.GenerateResource.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema10_TriangularePoligonMonoton\obj\Debug\Tema10_TriangularePoligonMonoton.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema10_TriangularePoligonMonoton\obj\Debug\Tema10_TriangularePoligonMonoton.exe
+C:\Users\raulc\Documents\Projects\MateInfoPrivat\A.Geometrie\Tema10_TriangularePoligonMonoton\obj\Debug\Tema10_TriangularePoligonMonoton.pdb
