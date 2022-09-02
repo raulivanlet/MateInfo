@@ -1,0 +1,8 @@
+C:\Users\raulc\Documents\Projects\ProgrameFacultate\LeftRight\bin\Debug\LeftRight.exe.config
+C:\Users\raulc\Documents\Projects\ProgrameFacultate\LeftRight\bin\Debug\LeftRight.exe
+C:\Users\raulc\Documents\Projects\ProgrameFacultate\LeftRight\bin\Debug\LeftRight.pdb
+C:\Users\raulc\Documents\Projects\ProgrameFacultate\LeftRight\obj\Debug\LeftRight.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\Projects\ProgrameFacultate\LeftRight\obj\Debug\LeftRight.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\Projects\ProgrameFacultate\LeftRight\obj\Debug\LeftRight.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\Projects\ProgrameFacultate\LeftRight\obj\Debug\LeftRight.exe
+C:\Users\raulc\Documents\Projects\ProgrameFacultate\LeftRight\obj\Debug\LeftRight.pdb
