@@ -1,0 +1,15 @@
+/home/raul/Documents/CifruriSubtitutie/bin/Debug/net6.0/CifruriSubtitutie
+/home/raul/Documents/CifruriSubtitutie/bin/Debug/net6.0/CifruriSubtitutie.deps.json
+/home/raul/Documents/CifruriSubtitutie/bin/Debug/net6.0/CifruriSubtitutie.runtimeconfig.json
+/home/raul/Documents/CifruriSubtitutie/bin/Debug/net6.0/CifruriSubtitutie.dll
+/home/raul/Documents/CifruriSubtitutie/bin/Debug/net6.0/CifruriSubtitutie.pdb
+/home/raul/Documents/CifruriSubtitutie/obj/Debug/net6.0/CifruriSubtitutie.csproj.AssemblyReference.cache
+/home/raul/Documents/CifruriSubtitutie/obj/Debug/net6.0/CifruriSubtitutie.GeneratedMSBuildEditorConfig.editorconfig
+/home/raul/Documents/CifruriSubtitutie/obj/Debug/net6.0/CifruriSubtitutie.AssemblyInfoInputs.cache
+/home/raul/Documents/CifruriSubtitutie/obj/Debug/net6.0/CifruriSubtitutie.AssemblyInfo.cs
+/home/raul/Documents/CifruriSubtitutie/obj/Debug/net6.0/CifruriSubtitutie.csproj.CoreCompileInputs.cache
+/home/raul/Documents/CifruriSubtitutie/obj/Debug/net6.0/CifruriSubtitutie.dll
+/home/raul/Documents/CifruriSubtitutie/obj/Debug/net6.0/ref/CifruriSubtitutie.dll
+/home/raul/Documents/CifruriSubtitutie/obj/Debug/net6.0/CifruriSubtitutie.pdb
+/home/raul/Documents/CifruriSubtitutie/obj/Debug/net6.0/CifruriSubtitutie.genruntimeconfig.cache
+/home/raul/Documents/CifruriSubtitutie/obj/Debug/net6.0/refint/CifruriSubtitutie.dll

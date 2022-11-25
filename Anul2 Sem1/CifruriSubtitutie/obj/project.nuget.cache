@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQmxiGS/Yms/CUwqsIlMbQ9Ch78dT92Da3JdGWJsg2lVZGz3wBD2LxcIl46TSqi0yAuyhiBsEBw5C8Y3svjyrA==",
+  "success": true,
+  "projectFilePath": "/home/raul/Documents/MateInfo/Anul2 Sem1/CifruriSubtitutie/CifruriSubtitutie.csproj",
+  "expectedPackageFiles": [
+    "/home/raul/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

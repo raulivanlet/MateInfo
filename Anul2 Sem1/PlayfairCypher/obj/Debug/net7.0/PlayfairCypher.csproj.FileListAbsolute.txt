@@ -1,0 +1,15 @@
+/home/raul/Documents/MateInfo/Anul2 Sem1/PlayfairCypher/bin/Debug/net7.0/PlayfairCypher
+/home/raul/Documents/MateInfo/Anul2 Sem1/PlayfairCypher/bin/Debug/net7.0/PlayfairCypher.deps.json
+/home/raul/Documents/MateInfo/Anul2 Sem1/PlayfairCypher/bin/Debug/net7.0/PlayfairCypher.runtimeconfig.json
+/home/raul/Documents/MateInfo/Anul2 Sem1/PlayfairCypher/bin/Debug/net7.0/PlayfairCypher.dll
+/home/raul/Documents/MateInfo/Anul2 Sem1/PlayfairCypher/bin/Debug/net7.0/PlayfairCypher.pdb
+/home/raul/Documents/MateInfo/Anul2 Sem1/PlayfairCypher/obj/Debug/net7.0/PlayfairCypher.csproj.AssemblyReference.cache
+/home/raul/Documents/MateInfo/Anul2 Sem1/PlayfairCypher/obj/Debug/net7.0/PlayfairCypher.GeneratedMSBuildEditorConfig.editorconfig
+/home/raul/Documents/MateInfo/Anul2 Sem1/PlayfairCypher/obj/Debug/net7.0/PlayfairCypher.AssemblyInfoInputs.cache
+/home/raul/Documents/MateInfo/Anul2 Sem1/PlayfairCypher/obj/Debug/net7.0/PlayfairCypher.AssemblyInfo.cs
+/home/raul/Documents/MateInfo/Anul2 Sem1/PlayfairCypher/obj/Debug/net7.0/PlayfairCypher.csproj.CoreCompileInputs.cache
+/home/raul/Documents/MateInfo/Anul2 Sem1/PlayfairCypher/obj/Debug/net7.0/PlayfairCypher.dll
+/home/raul/Documents/MateInfo/Anul2 Sem1/PlayfairCypher/obj/Debug/net7.0/refint/PlayfairCypher.dll
+/home/raul/Documents/MateInfo/Anul2 Sem1/PlayfairCypher/obj/Debug/net7.0/PlayfairCypher.pdb
+/home/raul/Documents/MateInfo/Anul2 Sem1/PlayfairCypher/obj/Debug/net7.0/PlayfairCypher.genruntimeconfig.cache
+/home/raul/Documents/MateInfo/Anul2 Sem1/PlayfairCypher/obj/Debug/net7.0/ref/PlayfairCypher.dll
