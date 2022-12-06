@@ -1,0 +1,11 @@
+C:\Users\raulc\Documents\Projects\4ColorTheorem\bin\Debug\4ColorTheorem.exe.config
+C:\Users\raulc\Documents\Projects\4ColorTheorem\bin\Debug\4ColorTheorem.exe
+C:\Users\raulc\Documents\Projects\4ColorTheorem\bin\Debug\4ColorTheorem.pdb
+C:\Users\raulc\Documents\Projects\4ColorTheorem\obj\Debug\4ColorTheorem.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\Projects\4ColorTheorem\obj\Debug\4ColorTheorem.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\Projects\4ColorTheorem\obj\Debug\_4ColorTheorem.Form1.resources
+C:\Users\raulc\Documents\Projects\4ColorTheorem\obj\Debug\_4ColorTheorem.Properties.Resources.resources
+C:\Users\raulc\Documents\Projects\4ColorTheorem\obj\Debug\4ColorTheorem.csproj.GenerateResource.cache
+C:\Users\raulc\Documents\Projects\4ColorTheorem\obj\Debug\4ColorTheorem.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\Projects\4ColorTheorem\obj\Debug\4ColorTheorem.exe
+C:\Users\raulc\Documents\Projects\4ColorTheorem\obj\Debug\4ColorTheorem.pdb
