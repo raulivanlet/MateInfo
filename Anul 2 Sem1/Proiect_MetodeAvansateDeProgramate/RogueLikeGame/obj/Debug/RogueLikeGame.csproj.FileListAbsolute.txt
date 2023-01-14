@@ -1,0 +1,11 @@
+C:\Users\raulc\Documents\RogueLikeGame\bin\Debug\RogueLikeGame.exe.config
+C:\Users\raulc\Documents\RogueLikeGame\bin\Debug\RogueLikeGame.exe
+C:\Users\raulc\Documents\RogueLikeGame\bin\Debug\RogueLikeGame.pdb
+C:\Users\raulc\Documents\RogueLikeGame\obj\Debug\RogueLikeGame.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\RogueLikeGame\obj\Debug\RogueLikeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulc\Documents\RogueLikeGame\obj\Debug\RogueLikeGame.Form1.resources
+C:\Users\raulc\Documents\RogueLikeGame\obj\Debug\RogueLikeGame.Properties.Resources.resources
+C:\Users\raulc\Documents\RogueLikeGame\obj\Debug\RogueLikeGame.csproj.GenerateResource.cache
+C:\Users\raulc\Documents\RogueLikeGame\obj\Debug\RogueLikeGame.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\RogueLikeGame\obj\Debug\RogueLikeGame.exe
+C:\Users\raulc\Documents\RogueLikeGame\obj\Debug\RogueLikeGame.pdb

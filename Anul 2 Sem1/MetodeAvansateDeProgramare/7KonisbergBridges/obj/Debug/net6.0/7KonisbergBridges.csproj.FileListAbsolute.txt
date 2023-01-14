@@ -1,0 +1,15 @@
+C:\Users\raulc\Documents\Projects\7KonisbergBridges\bin\Debug\net6.0\7KonisbergBridges.exe
+C:\Users\raulc\Documents\Projects\7KonisbergBridges\bin\Debug\net6.0\7KonisbergBridges.deps.json
+C:\Users\raulc\Documents\Projects\7KonisbergBridges\bin\Debug\net6.0\7KonisbergBridges.runtimeconfig.json
+C:\Users\raulc\Documents\Projects\7KonisbergBridges\bin\Debug\net6.0\7KonisbergBridges.dll
+C:\Users\raulc\Documents\Projects\7KonisbergBridges\bin\Debug\net6.0\7KonisbergBridges.pdb
+C:\Users\raulc\Documents\Projects\7KonisbergBridges\obj\Debug\net6.0\7KonisbergBridges.csproj.AssemblyReference.cache
+C:\Users\raulc\Documents\Projects\7KonisbergBridges\obj\Debug\net6.0\7KonisbergBridges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulc\Documents\Projects\7KonisbergBridges\obj\Debug\net6.0\7KonisbergBridges.AssemblyInfoInputs.cache
+C:\Users\raulc\Documents\Projects\7KonisbergBridges\obj\Debug\net6.0\7KonisbergBridges.AssemblyInfo.cs
+C:\Users\raulc\Documents\Projects\7KonisbergBridges\obj\Debug\net6.0\7KonisbergBridges.csproj.CoreCompileInputs.cache
+C:\Users\raulc\Documents\Projects\7KonisbergBridges\obj\Debug\net6.0\7KonisbergBridges.dll
+C:\Users\raulc\Documents\Projects\7KonisbergBridges\obj\Debug\net6.0\refint\7KonisbergBridges.dll
+C:\Users\raulc\Documents\Projects\7KonisbergBridges\obj\Debug\net6.0\7KonisbergBridges.pdb
+C:\Users\raulc\Documents\Projects\7KonisbergBridges\obj\Debug\net6.0\7KonisbergBridges.genruntimeconfig.cache
+C:\Users\raulc\Documents\Projects\7KonisbergBridges\obj\Debug\net6.0\ref\7KonisbergBridges.dll
