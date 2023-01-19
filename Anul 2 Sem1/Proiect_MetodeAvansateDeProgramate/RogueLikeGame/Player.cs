@@ -1,111 +1,171 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace RogueLikeGame {
-   static public class Player {
+	public static class Player {
 
-      static public Image image;
-      static public int health;
-      static public int damage;
-      static public int posX;
-      static public int posY;
+		//Player Stats
+		private static int health = 100;
+		private static readonly int damage = 50;
+		private static readonly int speed = 5;
+		private static readonly int attackSpeed = 5;
+		private static bool hasDied;
 
-
-      static public void InitializePlayer(Image img) {
-         InitStaticPosition();
-         image = img;
-         health = 100;
-         damage = 50;
-      }
-
-      static private void InitStaticPosition() {
-         posX= 1;
-         posY= 1;
-         Map.mapCoordonates[posX, posY] = 2;
-      }
-
-      static private void InitPosition() {
-         Random rnd = new Random();
-         do {
-            posX = rnd.Next(Map.size);
-            posX = rnd.Next(Map.size);
-         }
-         while (Map.mapCoordonates[posX, posY] != 0);
-         Map.mapCoordonates[posX, posY] = 2;
-      }
-
-      
-      static public void Fight(int x, int y) {
-         
-         if (Map.mapCoordonates[posX, posY] == 2) {
-            Map.enemys[0].Attack(damage);
-         }
-         
-      }
-      
-
-
-      //Player Movement
-      static public void MoveRight(ref PictureBox player) {
-         if (posX < Map.size) {
-            if (Map.mapCoordonates[posX + 1, posY] == 0) {
-               Map.mapCoordonates[posX, posY] = 0;
-               player.Location = new Point(player.Location.X + Map.gridSize, player.Location.Y);
-               posX++;
-               Map.mapCoordonates[posX, posY] = 2;
-            }
-            if (Map.mapCoordonates[posX + 1, posY] == 2) {
-               Fight(posX + 1, posY);
-            }
-         }
-      }
-
-      static public void MoveLeft(ref PictureBox player) {
-         //Move Player only in the grid bounds
-         if (Map.mapCoordonates[posX - 1, posY] == 0) {
-            Map.mapCoordonates[posX, posY] = 0;
-            player.Location = new Point(player.Location.X - Map.gridSize, player.Location.Y);
-            posX--;
-            Map.mapCoordonates[posX, posY] = 2;
-         }
-         if (Map.mapCoordonates[posX - 1, posY] == 2) {
-            Fight(posX - 1, posY);
-         }
-      }
-
-      static public void MoveUp(ref PictureBox player) {
-         //Move Player only in the grid bounds
-         if (Map.mapCoordonates[posX, posY - 1] == 0) {
-            Map.mapCoordonates[posX, posY] = 0;
-            player.Location = new Point(player.Location.X, player.Location.Y - Map.gridSize);
-            posY--;
-            Map.mapCoordonates[posX, posY] = 2;
-         }
-         if (Map.mapCoordonates[posX, posY - 1] == 2) {
-            Fight(posX, posY - 1);
-         }
-      }
-
-      static public void MoveDown(ref PictureBox player) {
-         //Move Player only in the grid bounds
-         if (Map.mapCoordonates[posX, posY + 1] == 0) {
-            Map.mapCoordonates[posX, posY] = 0;
-            player.Location = new Point(player.Location.X, player.Location.Y + Map.gridSize);
-            posY++;
-            Map.mapCoordonates[posX, posY] = 2;
-         }
-         if (Map.mapCoordonates[posX, posY + 1] == 2) {
-            Fight(posX, posY + 1);
-         }
-      }
+		//Player position
+		private static int posX;
+		private static int posY;
 
 
 
-   }
+		//Getters & Setters
+		//=========
+		public static int Damage {
+			get { return damage; }
+			//set { damage = value; }
+		}
+
+		public static int Health {
+			get { return health; }
+		}
+
+		public static int PosX {
+			get { return posX; }
+		}
+		public static int PosY {
+			get { return posY; }
+		}
+
+
+
+		//Initializators
+		//==============
+		public static void CreatePlayer() {
+			hasDied = false;
+			Random rnd = new Random();
+			do {
+				posX = rnd.Next(1, Map.size);
+				posY = rnd.Next(1, Map.size);
+			}
+			while (!(Map.mapID.Tiles_Start <= Map.mapBackground[posX, posY] && Map.mapBackground[posX, posY] <= Map.mapID.Tiles_End && Map.mapObjects[posX, posY] == 0));
+			Map.mapObjects[posX, posY] = Map.mapID.Player;
+		}
+
+
+
+		//Player Interactions
+		//===================
+		private static void FightEnemy(int varx, int vary) {
+			foreach (Enemy var in Map.enemies) {
+				if (var.PosX == varx && var.PosY == vary) {
+					var.TakeDamage(damage);
+				}
+			}
+		}
+
+		public static void TakeDamage(int dmg) {
+			if (dmg >= health) {
+				//Player.AttackPlayer(this.damage, true, posX, posY);
+				//Map.mapObjects[this.posX, this.posY] = 0;
+			}
+			else {
+				health -= dmg;
+				//Player.AttackPlayer(this.damage, false, posX, posY);
+			}
+		}
+
+		public static void AttackPlayer(int dmg, bool killedEnemy, int varX, int varY) {
+			if (dmg >= health) {
+				if (killedEnemy) {
+					MessageBox.Show("You Have Traded With an Enemy");
+				}
+				else {
+					MessageBox.Show("You Have Died");
+				}
+				hasDied = true;
+			}
+			else {
+				health -= dmg;
+				if (killedEnemy) {
+					for (int i = 0; i < Map.enemies.Count; i++) {
+						if (Map.enemies[i].PosX == varX && Map.enemies[i].PosY == varY)
+							Map.enemies.RemoveAt(i);
+					}
+				}
+			}
+		}
+
+
+
+		//========--Player-Movement--=======
+		//==================================
+		//						^
+		//						|
+		//					(PosY--)			
+		//		<--(PosX--)		(PosX++)-->
+		//					(PosY--)
+		//		 				|
+		//						v
+		public static void MoveRight() {
+			if (!hasDied) {
+				if (Map.mapID.Tiles_Start <= Map.mapBackground[posX + 1, posY] && Map.mapBackground[posX + 1, posY] <= Map.mapID.Tiles_End) {
+					if (Map.mapID.Enemys_Start <= Map.mapObjects[posX + 1, posY] && Map.mapObjects[posX + 1, posY] <= Map.mapID.Enemys_End) {
+						FightEnemy(posX + 1, posY);
+						Map.Tick(attackSpeed);
+					}
+					else {
+						posX++;
+						Map.Tick(speed);
+					}
+				}
+			}
+		}
+
+		public static void MoveLeft() {
+			if (!hasDied) {
+				if (Map.mapID.Tiles_Start <= Map.mapBackground[posX - 1, posY] && Map.mapBackground[posX - 1, posY] <= Map.mapID.Tiles_End) {
+					if (Map.mapID.Enemys_Start <= Map.mapObjects[posX - 1, posY] && Map.mapObjects[posX - 1, posY] <= Map.mapID.Enemys_End) {
+						FightEnemy(posX - 1, posY);
+						Map.Tick(attackSpeed);
+					}
+					else {
+						posX--;
+						Map.Tick(speed);
+					}
+				}
+			}
+		}
+
+		public static void MoveUp() {
+			if (!hasDied) {
+				if (Map.mapID.Tiles_Start <= Map.mapBackground[posX, posY - 1] && Map.mapBackground[posX, posY - 1] <= Map.mapID.Tiles_End) {
+					if (Map.mapID.Enemys_Start <= Map.mapObjects[posX, posY - 1] && Map.mapObjects[posX, posY - 1] <= Map.mapID.Enemys_End) {
+						FightEnemy(posX, posY - 1);
+						Map.Tick(attackSpeed);
+					}
+					else {
+						posY--;
+						Map.Tick(speed);
+					}
+				}
+			}
+		}
+
+		public static void MoveDown() {
+			if (!hasDied) {
+				if (Map.mapID.Tiles_Start <= Map.mapBackground[posX, posY + 1] && Map.mapBackground[posX, posY + 1] <= Map.mapID.Tiles_End) {
+					if (Map.mapID.Enemys_Start <= Map.mapObjects[posX, posY + 1] && Map.mapObjects[posX, posY + 1] <= Map.mapID.Enemys_End) {
+						FightEnemy(posX, posY + 1);
+						Map.Tick(attackSpeed);
+					}
+					else {
+						posY++;
+						Map.Tick(speed);
+					}
+				}
+			}
+		}
+
+
+
+	}
 }
