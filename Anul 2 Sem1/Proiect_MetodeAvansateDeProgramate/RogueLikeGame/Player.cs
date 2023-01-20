@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Windows.Forms;
 
 namespace RogueLikeGame {
@@ -6,9 +7,9 @@ namespace RogueLikeGame {
 
 		//Player Stats
 		private static int health = 100;
-		private static readonly int damage = 50;
-		private static readonly int speed = 5;
-		private static readonly int attackSpeed = 5;
+		private static int damage = 50;
+		private static int speed = 5;
+		private static int attackSpeed = 5;
 		private static bool hasDied;
 
 		//Player position
@@ -40,6 +41,9 @@ namespace RogueLikeGame {
 		//Initializators
 		//==============
 		public static void CreatePlayer() {
+			health = 100;
+			damage = 50;
+
 			hasDied = false;
 			Random rnd = new Random();
 			do {
@@ -55,42 +59,27 @@ namespace RogueLikeGame {
 		//Player Interactions
 		//===================
 		private static void FightEnemy(int varx, int vary) {
-			foreach (Enemy var in Map.enemies) {
-				if (var.PosX == varx && var.PosY == vary) {
+			foreach (Enemy_Rat var in Map.enemies.ToList()) {
+				if (var.posX == varx && var.posY == vary)
 					var.TakeDamage(damage);
-				}
-			}
-		}
-
-		public static void TakeDamage(int dmg) {
-			if (dmg >= health) {
-				//Player.AttackPlayer(this.damage, true, posX, posY);
-				//Map.mapObjects[this.posX, this.posY] = 0;
-			}
-			else {
-				health -= dmg;
-				//Player.AttackPlayer(this.damage, false, posX, posY);
 			}
 		}
 
 		public static void AttackPlayer(int dmg, bool killedEnemy, int varX, int varY) {
 			if (dmg >= health) {
-				if (killedEnemy) {
+				if (killedEnemy)
 					MessageBox.Show("You Have Traded With an Enemy");
-				}
-				else {
+				else
 					MessageBox.Show("You Have Died");
-				}
+				health = 0;
 				hasDied = true;
 			}
 			else {
 				health -= dmg;
-				if (killedEnemy) {
-					for (int i = 0; i < Map.enemies.Count; i++) {
-						if (Map.enemies[i].PosX == varX && Map.enemies[i].PosY == varY)
+				if (killedEnemy)
+					for (int i = 0; i < Map.enemies.Count; i++)
+						if (Map.enemies[i].posX == varX && Map.enemies[i].posY == varY)
 							Map.enemies.RemoveAt(i);
-					}
-				}
 			}
 		}
 

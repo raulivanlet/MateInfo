@@ -1,14 +1,11 @@
-﻿using System.Drawing;
-
-namespace RogueLikeGame {
-	public class Enemy_Rat : Enemy {
-
-
+﻿namespace RogueLikeGame.resources {
+	public class Enemy_Gnoll : Enemy {
 
 		//Initializators
 		//==============
-		public Enemy_Rat() {
-
+		public Enemy_Gnoll() {
+			Health = 100;
+			Damage = 50;
 		}
 
 
@@ -16,7 +13,6 @@ namespace RogueLikeGame {
 		//Player Interactions
 		//===================
 		public void Attack(int dmg) {
-			
 		}
 
 	}

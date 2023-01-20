@@ -105,28 +105,21 @@ namespace RogueLikeGame {
 			time += passedTime;
 			tick += passedTime;
 			foreach (Enemy var in enemies) {
-				int maxSpeed= var.Speed;
+				int maxSpeed = var.movementSpeed;
 			}
 
 			if (time % 100 == 0) {
-				//int type = rnd.Next(2);
 				int type = 1;
-				//for (int i = 0; i < rnd.Next(size / 4, size / 2); i++) {
-
 				for (int i = 0; i < rnd.Next(1, 2); i++) {
-
-					if(type == 1) {
+					if (type == 1) {
 						Enemy_Rat rats;
 						rats = new Enemy_Rat();
 						enemies.Add(rats);
 					}
-					
 				}
 			}
-			
 
-
-			Map.form.Refresh();
+			form.Refresh();
 		}
 
 
@@ -141,7 +134,6 @@ namespace RogueLikeGame {
 			strPosY = "PosY:" + Player.PosY.ToString();
 			strTick = "Tick:" + tick.ToString();
 			strTime = "Time:" + time.ToString();
-			
 
 			for (int i = 0; i < size; i++) {
 				for (int j = 0; j < size; j++) {
@@ -153,30 +145,21 @@ namespace RogueLikeGame {
 					e.Graphics.DrawString(strTick, new Font(FontFamily.GenericSansSerif, 16), Brushes.Black, 500, 10);
 					e.Graphics.DrawString(strTime, new Font(FontFamily.GenericSansSerif, 16), Brushes.Black, 600, 10);
 
-					if (mapBackground[i, j] == mapID.Tile_Sewers) {
+					if (mapBackground[i, j] == mapID.Tile_Sewers)
 						e.Graphics.DrawImage(tileSewers, (i * gridSize) + offsetX, (j * gridSize) + offsetY, gridSize, gridSize);
-					}
 
-					if (mapBackground[i, j] == mapID.Tile_Sewers_Grass) {
+					if (mapBackground[i, j] == mapID.Tile_Sewers_Grass)
 						e.Graphics.DrawImage(tileSewersGrass, (i * gridSize) + offsetX, (j * gridSize) + offsetY, gridSize, gridSize);
-					}
 
-					if (mapBackground[i, j] == mapID.Wall_Sewers) {
+					if (mapBackground[i, j] == mapID.Wall_Sewers)
 						e.Graphics.DrawImage(wallSewers, (i * gridSize) + offsetX, (j * gridSize) + offsetY, gridSize, gridSize);
-					}
 
 					e.Graphics.DrawImage(playerWarrior, (Player.PosX * gridSize) + offsetX, (Player.PosY * gridSize) + offsetY, gridSize, gridSize);
 
-					if (mapObjects[i, j] == mapID.Enemy_Rat) {
+					if (mapObjects[i, j] == mapID.Enemy_Rat)
 						e.Graphics.DrawImage(enemyRat, (i * gridSize) + offsetX, (j * gridSize) + offsetY, gridSize, gridSize);
-					}
-
-
-
 				}
-
 			}
-
 		}
 
 
@@ -192,11 +175,9 @@ namespace RogueLikeGame {
 					else {
 						mapBackground[i, j] = mapID.Tile_Sewers;
 						int tmp = rnd.Next(8);
-						if (tmp == 1) {
+						if (tmp == 1)
 							mapBackground[i, j] = mapID.Tile_Sewers_Grass;
-						}
 					}
-
 				}
 			}
 		}
