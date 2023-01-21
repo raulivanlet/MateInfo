@@ -8,7 +8,8 @@ namespace RogueLikeGame {
 		//Initializators
 		//==============
 		public Enemy_Rat() {
-
+			health= 100;
+			damage= 20;
 		}
 
 

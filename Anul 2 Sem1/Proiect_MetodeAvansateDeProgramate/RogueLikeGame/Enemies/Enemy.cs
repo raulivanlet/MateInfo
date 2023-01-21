@@ -11,6 +11,8 @@ namespace RogueLikeGame {
 		public int damage = 10;
 		public int movementSpeed = 5;
 		public int attackSpeed = 5;
+		public int level = 1;
+
 		//private readonly int sight = 2;
 
 		//Map Interaction
@@ -23,7 +25,7 @@ namespace RogueLikeGame {
 		//==============
 		public Enemy() {
 			health = 100;
-			damage= 20;
+			damage= 10;
 			attackSpeed = 2;
 			movementSpeed= 2;
 			Random rnd = new Random();
