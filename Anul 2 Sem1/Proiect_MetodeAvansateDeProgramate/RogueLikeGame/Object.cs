@@ -51,10 +51,11 @@ namespace RogueLikeGame {
 		//Player Interactions
 		//===================
 		public void Interact() {
-			Map.mapBackground[this.posX, this.posY] = 0;
-			Map.enemies.RemoveAt(0);
+			
+			/*Map.mapBackground[this.posX, this.posY] = 0;
+			Map.enemyRat.RemoveAt(0);
 			MessageBox.Show("You picked up a sword.");
-
+			*/
 
 		}
 	}

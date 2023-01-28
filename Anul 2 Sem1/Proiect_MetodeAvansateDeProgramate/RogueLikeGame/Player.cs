@@ -1,15 +1,17 @@
 ﻿using System;
 using System.Linq;
 using System.Windows.Forms;
+using RogueLikeGame.resources;
 
 namespace RogueLikeGame {
 	public static class Player {
 
 		//Player Stats
-		private static int health = 100;
-		private static int damage = 50;
-		private static int speed = 5;
-		private static int attackSpeed = 5;
+		private static int health;
+		private static int damage;
+		private static int speed;
+		private static int attackSpeed;
+		private static int id;
 		private static bool hasDied;
 
 		//Player position
@@ -43,7 +45,9 @@ namespace RogueLikeGame {
 		public static void CreatePlayer() {
 			health = 100;
 			damage = 50;
-
+			speed = 2;
+			attackSpeed = 2;
+			id = Map.mapID.Player;
 			hasDied = false;
 			Random rnd = new Random();
 			do {
@@ -51,7 +55,7 @@ namespace RogueLikeGame {
 				posY = rnd.Next(1, Map.size);
 			}
 			while (!(Map.mapID.Tiles_Start <= Map.mapBackground[posX, posY] && Map.mapBackground[posX, posY] <= Map.mapID.Tiles_End && Map.mapObjects[posX, posY] == 0));
-			Map.mapObjects[posX, posY] = Map.mapID.Player;
+			Map.mapObjects[posX, posY] = id;
 		}
 
 
@@ -59,27 +63,43 @@ namespace RogueLikeGame {
 		//Player Interactions
 		//===================
 		private static void FightEnemy(int varx, int vary) {
-			foreach (Enemy_Rat var in Map.enemies.ToList()) {
+
+			foreach (Enemy var in Map.enemis.ToList()) {
 				if (var.posX == varx && var.posY == vary)
 					var.TakeDamage(damage);
 			}
+			Map.attackHit.Position = new TimeSpan(0);
+			Map.attackHit.Play();
+
 		}
 
 		public static void AttackPlayer(int dmg, bool killedEnemy, int varX, int varY) {
 			if (dmg >= health) {
-				if (killedEnemy)
+				if (killedEnemy) {
+					Map.playerDeath.Play();
 					MessageBox.Show("You Have Traded With an Enemy");
-				else
+				}
+
+				else {
+					Map.playerDeath.Play();
 					MessageBox.Show("You Have Died");
+				}
+					
 				health = 0;
 				hasDied = true;
 			}
 			else {
 				health -= dmg;
-				if (killedEnemy)
-					for (int i = 0; i < Map.enemies.Count; i++)
-						if (Map.enemies[i].posX == varX && Map.enemies[i].posY == varY)
-							Map.enemies.RemoveAt(i);
+				if (killedEnemy) {
+					for (int i = 0; i < Map.enemis.Count; i++)
+						if (Map.enemis[i].posX == varX && Map.enemis[i].posY == varY)
+							Map.enemis.RemoveAt(i);
+
+					for (int i = 0; i < Map.enemis.Count; i++)
+						if (Map.enemis[i].posX == varX && Map.enemis[i].posY == varY)
+							Map.enemis.RemoveAt(i);
+				}
+					
 			}
 		}
 
@@ -102,7 +122,9 @@ namespace RogueLikeGame {
 						Map.Tick(attackSpeed);
 					}
 					else {
+						Map.mapObjects[posX, posY] = 0;
 						posX++;
+						Map.mapObjects[posX, posY] = id;
 						Map.Tick(speed);
 					}
 				}
@@ -117,7 +139,9 @@ namespace RogueLikeGame {
 						Map.Tick(attackSpeed);
 					}
 					else {
+						Map.mapObjects[posX, posY] = 0;
 						posX--;
+						Map.mapObjects[posX, posY] = id;
 						Map.Tick(speed);
 					}
 				}
@@ -132,7 +156,9 @@ namespace RogueLikeGame {
 						Map.Tick(attackSpeed);
 					}
 					else {
+						Map.mapObjects[posX, posY] = 0;
 						posY--;
+						Map.mapObjects[posX, posY] = id;
 						Map.Tick(speed);
 					}
 				}
@@ -147,7 +173,9 @@ namespace RogueLikeGame {
 						Map.Tick(attackSpeed);
 					}
 					else {
+						Map.mapObjects[posX, posY] = 0;
 						posY++;
+						Map.mapObjects[posX, posY] = id;
 						Map.Tick(speed);
 					}
 				}

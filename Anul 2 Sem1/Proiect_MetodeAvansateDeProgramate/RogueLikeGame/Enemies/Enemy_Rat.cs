@@ -9,7 +9,12 @@ namespace RogueLikeGame {
 		//==============
 		public Enemy_Rat() {
 			health= 100;
-			damage= 20;
+			damage= 10;
+			attackSpeed = 2;
+			movementSpeed = 2;
+			id = Map.mapID.Enemy_Rat;
+
+			Map.mapObjects[posX, posY] = id;
 		}
 
 

@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Media;
 using System.Windows.Forms;
+using RogueLikeGame.resources;
 using Image = System.Drawing.Image;
 
 
@@ -16,8 +18,21 @@ namespace RogueLikeGame {
 		private static readonly Image tileSewersGrass = Image.FromFile("../../resources/Tile_GrassSewers.png");
 		private static readonly Image playerWarrior = Image.FromFile("../../resources/Player_Warrior.png");
 		private static readonly Image enemyRat = Image.FromFile("../../resources/Enemy_Rat.png");
+		private static readonly Image enemyGnollScout = Image.FromFile("../../resources/Enemy_GnollScout.png");
+		private static readonly Image itemPotion = Image.FromFile("../../resources/Item_CrimsonPotion.png");
 
-		//UI
+
+
+
+		//Sounds
+		static public System.Windows.Media.MediaPlayer backgroundMusic = new System.Windows.Media.MediaPlayer();
+		static public System.Windows.Media.MediaPlayer playerDeath = new System.Windows.Media.MediaPlayer();
+		static public System.Windows.Media.MediaPlayer attackHit = new System.Windows.Media.MediaPlayer();
+		static public System.Windows.Media.MediaPlayer attackMiss = new System.Windows.Media.MediaPlayer();
+
+
+
+		//Debug UI
 		private static string strHealth;
 		private static string strDamage;
 		private static string strPosX;
@@ -37,8 +52,9 @@ namespace RogueLikeGame {
 		private static int tick;
 		private static int time;
 		private static readonly Random rnd = new Random();
-		public static List<Enemy_Rat> enemies = new List<Enemy_Rat>();
-		//public static List<Enemy> objects = new List<Enemy>();
+		public static List<Enemy> enemis = new List<Enemy>();
+		//public static List<Enemy_Rat> enemisRat = new List<Enemy_Rat>();
+		//public static List<Enemy_Gnoll_Scout> enemisGnollScouts = new List<Enemy_Gnoll_Scout>();
 
 
 
@@ -60,6 +76,7 @@ namespace RogueLikeGame {
 			//ID 200 <--> 299 Enemys
 			public static int Enemys_Start = 200;
 			public static int Enemy_Rat = 201;
+			public static int Enemy_Gnoll_Scout = 202;
 			public static int Enemys_End = 299;
 
 			//ID 300 <--> 399 Items
@@ -82,7 +99,7 @@ namespace RogueLikeGame {
 
 			Enemy_Rat rats;
 			rats = new Enemy_Rat();
-			enemies.Add(rats);
+			enemis.Add(rats);
 		}
 
 		public static void CreateMap() {
@@ -93,8 +110,26 @@ namespace RogueLikeGame {
 			//Map Center Offset
 			offsetX = (form.Width / 2) - ((size + 1) * (gridSize + 1) / 2);
 			offsetY = (form.Height / 2) - ((size + 1) * (gridSize + 1) / 2);
-
 			GenerateMap_Cube();
+
+			
+			backgroundMusic.Open(new Uri(@"C:\Users\raulc\Documents\MateInfo\Anul 2 Sem1\Proiect_MetodeAvansateDeProgramate\RogueLikeGame\resources\Music\Exploration_Theme.wav"));
+			backgroundMusic.Position = new TimeSpan(0);
+			backgroundMusic.Volume= 0.2;
+			backgroundMusic.Play();
+
+			playerDeath.Open(new Uri(@"C:\Users\raulc\Documents\MateInfo\Anul 2 Sem1\Proiect_MetodeAvansateDeProgramate\RogueLikeGame\resources\Music\Sound_Death.wav"));
+			playerDeath.Position = new TimeSpan(0);
+			playerDeath.Volume = 0.2;
+
+			attackHit.Open(new Uri(@"C:\Users\raulc\Documents\MateInfo\Anul 2 Sem1\Proiect_MetodeAvansateDeProgramate\RogueLikeGame\resources\Music\Sound_Hit.wav"));
+			attackHit.Position = new TimeSpan(0);
+			attackHit.Volume = 0.2;
+
+			attackMiss.Open(new Uri(@"C:\Users\raulc\Documents\MateInfo\Anul 2 Sem1\Proiect_MetodeAvansateDeProgramate\RogueLikeGame\resources\Music\Sound_Miss.wav"));
+			attackMiss.Position = new TimeSpan(0);
+			attackMiss.Volume = 0.2;
+
 		}
 
 
@@ -104,21 +139,18 @@ namespace RogueLikeGame {
 		public static void Tick(int passedTime) {
 			time += passedTime;
 			tick += passedTime;
-			foreach (Enemy var in enemies) {
-				int maxSpeed = var.movementSpeed;
-			}
 
-			if (time % 100 == 0) {
-				int type = 1;
-				for (int i = 0; i < rnd.Next(1, 2); i++) {
+			if ((time % 4 == 0) && (time / 4 >= 1)) {
+				int type = rnd.Next(1, 3);
+				for (int i = 0; i < rnd.Next(2); i++) {
 					if (type == 1) {
-						Enemy_Rat rats;
-						rats = new Enemy_Rat();
-						enemies.Add(rats);
+						enemis.Add(new Enemy_Rat());
+					}
+					else if (type == 2) {
+						enemis.Add(new Enemy_Gnoll_Scout());
 					}
 				}
 			}
-
 			form.Refresh();
 		}
 
@@ -138,12 +170,12 @@ namespace RogueLikeGame {
 			for (int i = 0; i < size; i++) {
 				for (int j = 0; j < size; j++) {
 
-					e.Graphics.DrawString(strHealth, new Font(FontFamily.GenericSansSerif, 16), Brushes.Black, 10, 10);
-					e.Graphics.DrawString(strDamage, new Font(FontFamily.GenericSansSerif, 16), Brushes.Black, 150, 10);
-					e.Graphics.DrawString(strPosX, new Font(FontFamily.GenericSansSerif, 16), Brushes.Black, 300, 10);
-					e.Graphics.DrawString(strPosY, new Font(FontFamily.GenericSansSerif, 16), Brushes.Black, 400, 10);
-					e.Graphics.DrawString(strTick, new Font(FontFamily.GenericSansSerif, 16), Brushes.Black, 500, 10);
-					e.Graphics.DrawString(strTime, new Font(FontFamily.GenericSansSerif, 16), Brushes.Black, 600, 10);
+					e.Graphics.DrawString(strHealth, new Font(System.Drawing.FontFamily.GenericSansSerif, 16), System.Drawing.Brushes.Black, 10, 10);
+					e.Graphics.DrawString(strDamage, new Font(System.Drawing.FontFamily.GenericSansSerif, 16), System.Drawing.Brushes.Black, 150, 10);
+					e.Graphics.DrawString(strPosX, new Font(System.Drawing.FontFamily.GenericSansSerif, 16), System.Drawing.Brushes.Black, 300, 10);
+					e.Graphics.DrawString(strPosY, new Font(System.Drawing.FontFamily.GenericSansSerif, 16), System.Drawing.Brushes.Black, 400, 10);
+					e.Graphics.DrawString(strTick, new Font(System.Drawing.FontFamily.GenericSansSerif, 16), System.Drawing.Brushes.Black, 500, 10);
+					e.Graphics.DrawString(strTime, new Font(System.Drawing.FontFamily.GenericSansSerif, 16), System.Drawing.Brushes.Black, 600, 10);
 
 					if (mapBackground[i, j] == mapID.Tile_Sewers)
 						e.Graphics.DrawImage(tileSewers, (i * gridSize) + offsetX, (j * gridSize) + offsetY, gridSize, gridSize);
@@ -154,10 +186,14 @@ namespace RogueLikeGame {
 					if (mapBackground[i, j] == mapID.Wall_Sewers)
 						e.Graphics.DrawImage(wallSewers, (i * gridSize) + offsetX, (j * gridSize) + offsetY, gridSize, gridSize);
 
-					e.Graphics.DrawImage(playerWarrior, (Player.PosX * gridSize) + offsetX, (Player.PosY * gridSize) + offsetY, gridSize, gridSize);
+					if (mapObjects[i, j] == mapID.Player)
+						e.Graphics.DrawImage(playerWarrior, (i * gridSize) + offsetX, (j * gridSize) + offsetY, gridSize, gridSize);
 
 					if (mapObjects[i, j] == mapID.Enemy_Rat)
 						e.Graphics.DrawImage(enemyRat, (i * gridSize) + offsetX, (j * gridSize) + offsetY, gridSize, gridSize);
+
+					if (mapObjects[i, j] == mapID.Enemy_Gnoll_Scout)
+						e.Graphics.DrawImage(enemyGnollScout, (i * gridSize) + offsetX, (j * gridSize) + offsetY, gridSize, gridSize);
 				}
 			}
 		}
