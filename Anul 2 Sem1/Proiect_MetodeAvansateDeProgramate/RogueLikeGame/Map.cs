@@ -1,9 +1,8 @@
-﻿using System;
+﻿using RogueLikeGame.resources;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
-using System.Media;
 using System.Windows.Forms;
-using RogueLikeGame.resources;
 using Image = System.Drawing.Image;
 
 
@@ -25,10 +24,10 @@ namespace RogueLikeGame {
 
 
 		//Sounds
-		static public System.Windows.Media.MediaPlayer backgroundMusic = new System.Windows.Media.MediaPlayer();
-		static public System.Windows.Media.MediaPlayer playerDeath = new System.Windows.Media.MediaPlayer();
-		static public System.Windows.Media.MediaPlayer attackHit = new System.Windows.Media.MediaPlayer();
-		static public System.Windows.Media.MediaPlayer attackMiss = new System.Windows.Media.MediaPlayer();
+		public static System.Windows.Media.MediaPlayer backgroundMusic = new System.Windows.Media.MediaPlayer();
+		public static System.Windows.Media.MediaPlayer playerDeath = new System.Windows.Media.MediaPlayer();
+		public static System.Windows.Media.MediaPlayer attackHit = new System.Windows.Media.MediaPlayer();
+		public static System.Windows.Media.MediaPlayer attackMiss = new System.Windows.Media.MediaPlayer();
 
 
 
@@ -90,7 +89,8 @@ namespace RogueLikeGame {
 
 		//Acess Map Creation
 		//==================
-		public static void Init(Form f1) {
+		public static void Init(Form f1)
+		{
 			form = f1;
 			tick = 0;
 			time = 0;
@@ -102,7 +102,8 @@ namespace RogueLikeGame {
 			enemis.Add(rats);
 		}
 
-		public static void CreateMap() {
+		public static void CreateMap()
+		{
 			size = rnd.Next(6, 20);
 			mapBackground = new int[size, size];
 			mapObjects = new int[size, size];
@@ -112,21 +113,22 @@ namespace RogueLikeGame {
 			offsetY = (form.Height / 2) - ((size + 1) * (gridSize + 1) / 2);
 			GenerateMap_Cube();
 
-			
-			backgroundMusic.Open(new Uri(@"C:\Users\raulc\Documents\MateInfo\Anul 2 Sem1\Proiect_MetodeAvansateDeProgramate\RogueLikeGame\resources\Music\Exploration_Theme.wav"));
+			string location = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+
+			backgroundMusic.Open(new Uri(location + @"\MateInfo\Anul 2 Sem1\Proiect_MetodeAvansateDeProgramate\RogueLikeGame\resources\Music\Exploration_Theme.wav"));
 			backgroundMusic.Position = new TimeSpan(0);
-			backgroundMusic.Volume= 0.2;
+			backgroundMusic.Volume = 0.2;
 			backgroundMusic.Play();
 
-			playerDeath.Open(new Uri(@"C:\Users\raulc\Documents\MateInfo\Anul 2 Sem1\Proiect_MetodeAvansateDeProgramate\RogueLikeGame\resources\Music\Sound_Death.wav"));
+			playerDeath.Open(new Uri(location + @"\MateInfo\Anul 2 Sem1\Proiect_MetodeAvansateDeProgramate\RogueLikeGame\resources\Music\Sound_Death.wav"));
 			playerDeath.Position = new TimeSpan(0);
 			playerDeath.Volume = 0.2;
 
-			attackHit.Open(new Uri(@"C:\Users\raulc\Documents\MateInfo\Anul 2 Sem1\Proiect_MetodeAvansateDeProgramate\RogueLikeGame\resources\Music\Sound_Hit.wav"));
+			attackHit.Open(new Uri(location + @"\MateInfo\Anul 2 Sem1\Proiect_MetodeAvansateDeProgramate\RogueLikeGame\resources\Music\Sound_Hit.wav"));
 			attackHit.Position = new TimeSpan(0);
 			attackHit.Volume = 0.2;
 
-			attackMiss.Open(new Uri(@"C:\Users\raulc\Documents\MateInfo\Anul 2 Sem1\Proiect_MetodeAvansateDeProgramate\RogueLikeGame\resources\Music\Sound_Miss.wav"));
+			attackMiss.Open(new Uri(location + @"\MateInfo\Anul 2 Sem1\Proiect_MetodeAvansateDeProgramate\RogueLikeGame\resources\Music\Sound_Miss.wav"));
 			attackMiss.Position = new TimeSpan(0);
 			attackMiss.Volume = 0.2;
 
@@ -136,17 +138,45 @@ namespace RogueLikeGame {
 
 		//Timer and Ai Spawn & Logic
 		//=====
-		public static void Tick(int passedTime) {
+		public static void Tick(int passedTime)
+		{
 			time += passedTime;
 			tick += passedTime;
 
-			if ((time % 4 == 0) && (time / 4 >= 1)) {
+			for (int i = 0; i < enemis.Count; i++)
+			{
+				if (enemis[i].spottedPlayer && (System.Math.Abs(enemis[i].posX - Player.PosX) <= enemis[i].spotDistance) && (System.Math.Abs(enemis[i].posY - Player.PosY) <= enemis[i].spotDistance))
+				{
+					if (enemis[i].posX > Player.PosX)
+						enemis[i].MoveX(-1);
+					else if (enemis[i].posX < Player.PosX)
+						enemis[i].MoveX(1);
+
+					if (enemis[i].posY > Player.PosY)
+						enemis[i].MoveY(-1);
+					else if (enemis[i].posY < Player.PosY)
+						enemis[i].MoveY(1);
+				}
+
+
+				if ((System.Math.Abs(enemis[i].posX - Player.PosX) <= enemis[i].spotDistance) || (System.Math.Abs(enemis[i].posY - Player.PosY) <= enemis[i].spotDistance))
+				{
+					enemis[i].spottedPlayer = true;
+				}
+			}
+
+
+			if ((time % 20 == 0) && (time / 4 >= 1))
+			{
 				int type = rnd.Next(1, 3);
-				for (int i = 0; i < rnd.Next(2); i++) {
-					if (type == 1) {
+				for (int i = 0; i < rnd.Next(2); i++)
+				{
+					if (type == 1)
+					{
 						enemis.Add(new Enemy_Rat());
 					}
-					else if (type == 2) {
+					else if (type == 2)
+					{
 						enemis.Add(new Enemy_Gnoll_Scout());
 					}
 				}
@@ -159,7 +189,8 @@ namespace RogueLikeGame {
 		//Draw the Map
 		//==============
 		//public static void
-		public static void Draw(PaintEventArgs e) {
+		public static void Draw(PaintEventArgs e)
+		{
 			strHealth = "Health:" + Player.Health.ToString();
 			strDamage = "Damage:" + Player.Damage.ToString();
 			strPosX = "PosX:" + Player.PosX.ToString();
@@ -167,8 +198,10 @@ namespace RogueLikeGame {
 			strTick = "Tick:" + tick.ToString();
 			strTime = "Time:" + time.ToString();
 
-			for (int i = 0; i < size; i++) {
-				for (int j = 0; j < size; j++) {
+			for (int i = 0; i < size; i++)
+			{
+				for (int j = 0; j < size; j++)
+				{
 
 					e.Graphics.DrawString(strHealth, new Font(System.Drawing.FontFamily.GenericSansSerif, 16), System.Drawing.Brushes.Black, 10, 10);
 					e.Graphics.DrawString(strDamage, new Font(System.Drawing.FontFamily.GenericSansSerif, 16), System.Drawing.Brushes.Black, 150, 10);
@@ -202,13 +235,18 @@ namespace RogueLikeGame {
 
 		//Generate Map Types
 		//==================
-		private static void GenerateMap_Cube() {
-			for (int i = 0; i < size; i++) {
-				for (int j = 0; j < size; j++) {
-					if (i == 0 || i == size - 1 || j == 0 || j == size - 1) {
+		private static void GenerateMap_Cube()
+		{
+			for (int i = 0; i < size; i++)
+			{
+				for (int j = 0; j < size; j++)
+				{
+					if (i == 0 || i == size - 1 || j == 0 || j == size - 1)
+					{
 						mapBackground[i, j] = mapID.Wall_Sewers;
 					}
-					else {
+					else
+					{
 						mapBackground[i, j] = mapID.Tile_Sewers;
 						int tmp = rnd.Next(8);
 						if (tmp == 1)
@@ -218,10 +256,14 @@ namespace RogueLikeGame {
 			}
 		}
 
-		private static void GenerateMap_WeirdCube() {
-			for (int i = 0; i < size; i++) {
-				for (int j = 0; j < size; j++) {
-					if (i == 0 || i == size - 1 || j == 0 || j == size - 1) {
+		private static void GenerateMap_WeirdCube()
+		{
+			for (int i = 0; i < size; i++)
+			{
+				for (int j = 0; j < size; j++)
+				{
+					if (i == 0 || i == size - 1 || j == 0 || j == size - 1)
+					{
 						mapBackground[i, j] = 1;
 					}
 				}

@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Drawing;
-using System.Windows.Forms;
 
 namespace RogueLikeGame {
 	public class Sword : Object {
@@ -18,22 +17,26 @@ namespace RogueLikeGame {
 
 		//Initializators
 		//==============
-		public Sword() {
+		public Sword()
+		{
 			//id = Map.enemies.Count;
 			//this.image = img;
 		}
 
 
-		public void InitializeEnemy() {
+		public void InitializeEnemy()
+		{
 			//InitStaticPosition();
 			InitPosition();
 			health = 100;
 		}
 
-		private void InitPosition() {
+		private void InitPosition()
+		{
 			Random rnd = new Random();
 
-			do {
+			do
+			{
 				posX = rnd.Next(1, Map.size);
 				posY = rnd.Next(1, Map.size);
 			}
@@ -45,7 +48,8 @@ namespace RogueLikeGame {
 
 		//Player Interactions
 		//===================
-		public void Interact() {
+		public void Interact()
+		{
 			/*
 			Map.mapBackground[this.posX, this.posY] = 0;
 			Map.enemisRat.RemoveAt(0);
