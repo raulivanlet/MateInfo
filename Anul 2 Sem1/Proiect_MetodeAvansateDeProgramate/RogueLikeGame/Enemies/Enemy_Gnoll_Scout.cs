@@ -19,15 +19,5 @@
 			Map.mapObjects[posX, posY] = id;
 		}
 
-
-
-		//Player Interactions
-		//===================
-		public void Attack(int dmg)
-		{
-
-		}
-
-
 	}
 }

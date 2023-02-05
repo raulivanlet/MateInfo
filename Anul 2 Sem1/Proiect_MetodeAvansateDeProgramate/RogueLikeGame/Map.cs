@@ -52,8 +52,6 @@ namespace RogueLikeGame {
 		private static int time;
 		private static readonly Random rnd = new Random();
 		public static List<Enemy> enemis = new List<Enemy>();
-		//public static List<Enemy_Rat> enemisRat = new List<Enemy_Rat>();
-		//public static List<Enemy_Gnoll_Scout> enemisGnollScouts = new List<Enemy_Gnoll_Scout>();
 
 
 
@@ -80,6 +78,8 @@ namespace RogueLikeGame {
 
 			//ID 300 <--> 399 Items
 			public static int Items = 300;
+			public static int Items_Sword = 301;
+			public static int Items_Potion = 302;
 
 			//ID 400 <--> 499 Player
 			public static int Player = 400;

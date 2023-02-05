@@ -13,19 +13,9 @@
 			attackSpeed = 2;
 			movementSpeed = 2;
 			spottedPlayer = false;
-			//spotDistance = 2;
 			id = Map.mapID.Enemy_Rat;
 
 			Map.mapObjects[posX, posY] = id;
-		}
-
-
-
-		//Player Interactions
-		//===================
-		public void Attack(int dmg)
-		{
-
 		}
 
 	}
