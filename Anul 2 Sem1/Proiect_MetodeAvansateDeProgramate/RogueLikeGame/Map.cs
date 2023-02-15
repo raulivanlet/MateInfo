@@ -2,9 +2,10 @@
 using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.IO;
+using System.Reflection;
 using System.Windows.Forms;
 using Image = System.Drawing.Image;
-
 
 namespace RogueLikeGame {
 	public static class Map {
@@ -113,6 +114,7 @@ namespace RogueLikeGame {
 			offsetY = (form.Height / 2) - ((size + 1) * (gridSize + 1) / 2);
 			GenerateMap_Cube();
 
+			string path = (Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
 			string location = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
 
 			backgroundMusic.Open(new Uri(location + @"\MateInfo\Anul 2 Sem1\Proiect_MetodeAvansateDeProgramate\RogueLikeGame\resources\Music\Exploration_Theme.wav"));
